@@ -40,7 +40,7 @@
             </div>
     
             <div class="center">
-                <a href="http://127.0.0.1:5500/heroku/page.php" target="_blank"><button class="button2">Entrar</button></a>
+                <a href="page.php" target="_blank"><button class="button2">Entrar</button></a>
             </div>
         </div>
     </form>
