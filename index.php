@@ -34,13 +34,13 @@
                 <br>
                 <br>
                 <select name="genero" id="genero">
-                    <option value="PESSOAFISICA">Masculino</option>
-                    <option value="PESSOAJURIDICA">Feminino</option>
+                    <option value="MASCULINO">Masculino</option>
+                    <option value="FEMININO">Feminino</option>
                 </select>
             </div>
     
             <div class="center">
-                <a href="http://127.0.0.1:5500/heroku/page.html" target="_blank"><button class="button2">Entrar</button></a>
+                <a href="http://127.0.0.1:5500/heroku/page.php" target="_blank"><button class="button2">Entrar</button></a>
             </div>
         </div>
     </form>
