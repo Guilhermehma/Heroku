@@ -74,7 +74,7 @@
     <br>
     <img src="/imagens/hug emoji.png" alt="abraço" width="60">
     <img src="/imagens/hug emoji.png" alt="abraço" width="60">
-    <a href="http://127.0.0.1:5500/heroku/page3.html" target="_blank"><img src="/imagens/handshake emoji.png" alt="aperto de mãos" width="60"></a>
+    <a href="page3.php" target="_blank"><img src="/imagens/handshake emoji.png" alt="aperto de mãos" width="60"></a>
     <img src="/imagens/hug emoji.png" alt="abraço" width="60">
     <img src="/imagens/hug emoji.png" alt="abraço" width="60">
     <img src="/imagens/hug emoji.png" alt="abraço" width="60">

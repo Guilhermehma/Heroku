@@ -13,7 +13,7 @@
     <h2>Clique no botão para fazer o quiz</h2> 
     <br><br><br><br><br><br><br><br>
     <div class="botao">
-    <a href="http://127.0.0.1:5500/heroku/page2.html" target="_blank"><button autofocus>Clique</button></a>
+    <a href="page2.php" target="_blank"><button autofocus>Clique</button></a>
     </div>
 </body>
 </html>
